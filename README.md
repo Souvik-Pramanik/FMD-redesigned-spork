@@ -1,6 +1,6 @@
 Here is a professional `README.md` file for your GitHub repository:
 
-```markdown
+
 # Quantum Image Morphological Operations
 
 This project leverages quantum computing principles to perform image restoration and sharpening through morphological operations. Using Qiskit for quantum computations and classical image processing libraries like PIL and OpenCV, this project demonstrates the potential of quantum image processing.
